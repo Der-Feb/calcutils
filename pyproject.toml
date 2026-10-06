@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "calcutils_derfeb"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple student tutorial math utility package"
 readme = "README.md"
 authors = [
